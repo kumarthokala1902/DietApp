@@ -58,6 +58,9 @@ public class HomeFragment extends Fragment {
         setupClickListeners(view);
         loadUserData();
         
+        // Start animations on the views
+        startAnimations(view);
+        
         return view;
     }
 
@@ -68,12 +71,15 @@ public class HomeFragment extends Fragment {
         tvProtein = view.findViewById(R.id.tvProtein);
         tvCarbs = view.findViewById(R.id.tvCarbs);
         tvFats = view.findViewById(R.id.tvFats);
-        tvCalorieGoalText = view.findViewById(R.id.tvCalorieGoalText); // You might need to add this ID to layout
+        tvCalorieGoalText = view.findViewById(R.id.tvCalorieGoalText);
         pbCalories = view.findViewById(R.id.pbCalories);
         pbCaloriesLinear = view.findViewById(R.id.pbCaloriesLinear);
         rvMeals = view.findViewById(R.id.rvMeals);
 
         AnimUtils.applyLiftAnimation(view.findViewById(R.id.cardCalories));
+        AnimUtils.applyLiftAnimation(view.findViewById(R.id.cardWater));
+        AnimUtils.applyLiftAnimation(view.findViewById(R.id.cardSteps));
+        AnimUtils.applyLiftAnimation(view.findViewById(R.id.cardTodayWorkout));
     }
 
     private void loadUserData() {
@@ -118,6 +124,8 @@ public class HomeFragment extends Fragment {
         List<Meal> meals = DataProvider.getTodayMeals();
         MealAdapter adapter = new MealAdapter(meals, (meal, position) -> {
             Toast.makeText(getContext(), "📋 " + meal.getName() + ": " + meal.getCalories() + " kcal", Toast.LENGTH_SHORT).show();
+            // Pulse animation on click
+            AnimUtils.pulse(rvMeals.findViewHolderForAdapterPosition(position).itemView);
         });
         rvMeals.setLayoutManager(new LinearLayoutManager(getContext()));
         rvMeals.setAdapter(adapter);
@@ -137,8 +145,12 @@ public class HomeFragment extends Fragment {
 
     private void startAnimations(View view) {
         // Slide in animations for cards
+        AnimUtils.fadeIn(view.findViewById(R.id.tvGreeting), 500);
+        AnimUtils.fadeIn(view.findViewById(R.id.tvUserName), 700);
         AnimUtils.slideInFromBottom(view.findViewById(R.id.cardCalories), 100);
         AnimUtils.slideInFromBottom(view.findViewById(R.id.cardWater), 250);
         AnimUtils.slideInFromBottom(view.findViewById(R.id.cardSteps), 300);
+        AnimUtils.slideInFromBottom(view.findViewById(R.id.rvMeals), 450);
+        AnimUtils.slideInFromBottom(view.findViewById(R.id.cardTodayWorkout), 600);
     }
 }

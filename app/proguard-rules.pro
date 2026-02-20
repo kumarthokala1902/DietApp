@@ -1,0 +1,3 @@
+-keep class com.gymdiet.app.** { *; }
+-keep class com.github.mikephil.charting.** { *; }
+-keep class com.airbnb.lottie.** { *; }

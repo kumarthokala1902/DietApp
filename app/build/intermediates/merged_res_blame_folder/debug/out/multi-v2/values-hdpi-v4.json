@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.gymdiet.app-mergeDebugResources-33:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/kumarreddyt/.gradle/caches/transforms-3/3bcafa5bc1a58f309fc96d19f6f511fd/transformed/appcompat-1.6.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

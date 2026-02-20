@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.gymdiet.app-mergeDebugResources-34:/layout/item_diet_plan.xml",
+        "source": "com.gymdiet.app-main-37:/layout/item_diet_plan.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-mergeDebugResources-34:/layout/fragment_tracker.xml",
+        "source": "com.gymdiet.app-main-37:/layout/fragment_tracker.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-mergeDebugResources-34:/layout/item_onboarding.xml",
+        "source": "com.gymdiet.app-main-37:/layout/item_onboarding.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-mergeDebugResources-34:/layout/fragment_profile.xml",
+        "source": "com.gymdiet.app-main-37:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-mergeDebugResources-34:/layout/activity_onboarding.xml",
+        "source": "com.gymdiet.app-main-37:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-mergeDebugResources-34:/layout/fragment_home.xml",
+        "source": "com.gymdiet.app-main-37:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-mergeDebugResources-34:/layout/fragment_diet.xml",
+        "source": "com.gymdiet.app-main-37:/layout/fragment_diet.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-mergeDebugResources-34:/layout/item_workout.xml",
+        "source": "com.gymdiet.app-main-37:/layout/item_workout.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-mergeDebugResources-34:/layout/item_meal.xml",
+        "source": "com.gymdiet.app-main-37:/layout/item_meal.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-mergeDebugResources-34:/layout/fragment_workout.xml",
+        "source": "com.gymdiet.app-main-37:/layout/fragment_workout.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "com.gymdiet.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-mergeDebugResources-34:/layout/activity_splash.xml",
+        "source": "com.gymdiet.app-main-37:/layout/activity_splash.xml"
+    }
+]

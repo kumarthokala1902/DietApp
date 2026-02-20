@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-mergeDebugResources-39:/layout/fragment_diet.xml",
+        "source": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-main-42:/layout/fragment_diet.xml"
+    },
+    {
+        "merged": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-mergeDebugResources-39:/layout/item_meal.xml",
+        "source": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-main-42:/layout/item_meal.xml"
+    },
+    {
+        "merged": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-mergeDebugResources-39:/layout/fragment_home.xml",
+        "source": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-main-42:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-mergeDebugResources-39:/layout/activity_splash.xml",
+        "source": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-main-42:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-mergeDebugResources-39:/layout/activity_login.xml",
+        "source": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-main-42:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-mergeDebugResources-39:/layout/activity_register.xml",
+        "source": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-main-42:/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-mergeDebugResources-39:/layout/item_onboarding.xml",
+        "source": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-main-42:/layout/item_onboarding.xml"
+    },
+    {
+        "merged": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-mergeDebugResources-39:/layout/item_diet_plan.xml",
+        "source": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-main-42:/layout/item_diet_plan.xml"
+    },
+    {
+        "merged": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-mergeDebugResources-39:/layout/activity_onboarding.xml",
+        "source": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-main-42:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-mergeDebugResources-39:/layout/item_workout.xml",
+        "source": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-main-42:/layout/item_workout.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-mergeDebugResources-39:/layout/fragment_home.xml",
+        "source": "com.gymdiet.app-main-42:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-mergeDebugResources-39:/layout/dialog_my_goals.xml",
+        "source": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-main-42:/layout/dialog_my_goals.xml"
+    },
+    {
+        "merged": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-mergeDebugResources-39:/layout/fragment_tracker.xml",
+        "source": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-main-42:/layout/fragment_tracker.xml"
+    },
+    {
+        "merged": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-mergeDebugResources-39:/layout/dialog_edit_profile.xml",
+        "source": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-main-42:/layout/dialog_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-mergeDebugResources-39:/layout/activity_main.xml",
+        "source": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-mergeDebugResources-39:/layout/fragment_profile.xml",
+        "source": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-main-42:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-mergeDebugResources-39:/layout/fragment_workout.xml",
+        "source": "/Users/kumarreddyt/.gradle/daemon/8.7/com.gymdiet.app-main-42:/layout/fragment_workout.xml"
+    }
+]

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Brand Colors -->
+    <color name="primary">#FF6B35</color>
+    <color name="primary_dark">#E55A2B</color>
+    <color name="primary_light">#FF8C5A</color>
+    <color name="accent">#00D4AA</color>
+    <color name="accent_dark">#00B894</color>
+
+    <!-- Background Colors -->
+    <color name="bg_dark">#0D0D0D</color>
+    <color name="bg_card">#1A1A2E</color>
+    <color name="bg_card2">#16213E</color>
+    <color name="bg_card3">#0F3460</color>
+    <color name="bg_surface">#1E1E2E</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0C0</color>
+    <color name="text_accent">#FF6B35</color>
+
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#FF6B35</color>
+    <color name="gradient_end">#E91E8C</color>
+    <color name="gradient_green_start">#00D4AA</color>
+    <color name="gradient_green_end">#0052D4</color>
+
+    <!-- Macro Colors -->
+    <color name="protein_color">#FF6B35</color>
+    <color name="carbs_color">#FFD700</color>
+    <color name="fat_color">#00D4AA</color>
+    <color name="calories_color">#E91E8C</color>
+
+    <!-- Status Colors -->
+    <color name="success">#00C853</color>
+    <color name="warning">#FFD600</color>
+    <color name="error">#FF1744</color>
+
+    <!-- White shades -->
+    <color name="white">#FFFFFF</color>
+    <color name="white_10">#1AFFFFFF</color>
+    <color name="white_20">#33FFFFFF</color>
+    <color name="white_50">#80FFFFFF</color>
+
+    <!-- Transparent -->
+    <color name="transparent">#00000000</color>
+</resources>

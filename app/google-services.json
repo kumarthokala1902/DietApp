@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "770259276865",
+    "firebase_url": "https://andriod230-1-default-rtdb.firebaseio.com",
+    "project_id": "andriod230-1",
+    "storage_bucket": "andriod230-1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770259276865:android:26b15e61528e7aed4922c0",
+        "android_client_info": {
+          "package_name": "com.example.andriod230"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa8_3bNVssPD86Dncv8nuPts7trt3jF5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770259276865:android:d839c6357b64449e4922c0",
+        "android_client_info": {
+          "package_name": "com.gymdiet.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa8_3bNVssPD86Dncv8nuPts7trt3jF5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

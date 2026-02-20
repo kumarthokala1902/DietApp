@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/anim_slide_in_right.xml.flat",
+        "source": "com.gymdiet.app-main-37:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/layout_fragment_diet.xml.flat",
+        "source": "com.gymdiet.app-main-37:/layout/fragment_diet.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/drawable_dot_inactive.xml.flat",
+        "source": "com.gymdiet.app-main-37:/drawable/dot_inactive.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/layout_item_meal.xml.flat",
+        "source": "com.gymdiet.app-main-37:/layout/item_meal.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/anim_slide_in_bottom.xml.flat",
+        "source": "com.gymdiet.app-main-37:/anim/slide_in_bottom.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/drawable_dot_active.xml.flat",
+        "source": "com.gymdiet.app-main-37:/drawable/dot_active.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/drawable_ripple_card.xml.flat",
+        "source": "com.gymdiet.app-main-37:/drawable/ripple_card.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/drawable_bg_gradient_orange.xml.flat",
+        "source": "com.gymdiet.app-main-37:/drawable/bg_gradient_orange.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/layout_activity_onboarding.xml.flat",
+        "source": "com.gymdiet.app-main-37:/layout/activity_onboarding.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/layout_fragment_tracker.xml.flat",
+        "source": "com.gymdiet.app-main-37:/layout/fragment_tracker.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/layout_item_onboarding.xml.flat",
+        "source": "com.gymdiet.app-main-37:/layout/item_onboarding.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/anim_scale_up.xml.flat",
+        "source": "com.gymdiet.app-main-37:/anim/scale_up.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/drawable_btn_primary.xml.flat",
+        "source": "com.gymdiet.app-main-37:/drawable/btn_primary.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/layout_activity_main.xml.flat",
+        "source": "com.gymdiet.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/drawable_bg_gradient_green.xml.flat",
+        "source": "com.gymdiet.app-main-37:/drawable/bg_gradient_green.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/anim_btn_bounce.xml.flat",
+        "source": "com.gymdiet.app-main-37:/anim/btn_bounce.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/layout_item_diet_plan.xml.flat",
+        "source": "com.gymdiet.app-main-37:/layout/item_diet_plan.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/drawable_bg_card_dark.xml.flat",
+        "source": "com.gymdiet.app-main-37:/drawable/bg_card_dark.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/drawable_bg_circle_primary.xml.flat",
+        "source": "com.gymdiet.app-main-37:/drawable/bg_circle_primary.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/anim_fade_out.xml.flat",
+        "source": "com.gymdiet.app-main-37:/anim/fade_out.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/layout_activity_splash.xml.flat",
+        "source": "com.gymdiet.app-main-37:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/layout_fragment_workout.xml.flat",
+        "source": "com.gymdiet.app-main-37:/layout/fragment_workout.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/layout_fragment_profile.xml.flat",
+        "source": "com.gymdiet.app-main-37:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/drawable_bg_water_drop.xml.flat",
+        "source": "com.gymdiet.app-main-37:/drawable/bg_water_drop.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/anim_slide_out_left.xml.flat",
+        "source": "com.gymdiet.app-main-37:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/drawable_bg_gradient_purple.xml.flat",
+        "source": "com.gymdiet.app-main-37:/drawable/bg_gradient_purple.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/anim_fade_in.xml.flat",
+        "source": "com.gymdiet.app-main-37:/anim/fade_in.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/drawable_progress_bar_gradient.xml.flat",
+        "source": "com.gymdiet.app-main-37:/drawable/progress_bar_gradient.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/drawable_bg_bottom_nav.xml.flat",
+        "source": "com.gymdiet.app-main-37:/drawable/bg_bottom_nav.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/layout_item_workout.xml.flat",
+        "source": "com.gymdiet.app-main-37:/layout/item_workout.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/drawable_bg_macro_chip.xml.flat",
+        "source": "com.gymdiet.app-main-37:/drawable/bg_macro_chip.xml"
+    },
+    {
+        "merged": "com.gymdiet.app-merged_res-35:/layout_fragment_home.xml.flat",
+        "source": "com.gymdiet.app-main-37:/layout/fragment_home.xml"
+    }
+]

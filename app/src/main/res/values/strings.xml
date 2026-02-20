@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Frotumars DiteFit</string>
+    <string name="app_tagline">Transform Your Body. Fuel Your Life.</string>
+
+    <!-- Onboarding -->
+    <string name="onboard_title_1">Track Your Nutrition</string>
+    <string name="onboard_title_2">Personalized Workout Plans</string>
+    <string name="onboard_title_3">Achieve Your Goals</string>
+    <string name="onboard_desc_1">Monitor every calorie, protein, carb and fat with precision and ease.</string>
+    <string name="onboard_desc_2">Follow expert-curated workout routines tailored to your fitness level.</string>
+    <string name="onboard_desc_3">Track progress, stay motivated and reach your dream physique.</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_diet">Diet</string>
+    <string name="nav_workout">Workout</string>
+    <string name="nav_tracker">Tracker</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Macros -->
+    <string name="protein">Protein</string>
+    <string name="carbs">Carbs</string>
+    <string name="fats">Fats</string>
+    <string name="calories">Calories</string>
+
+    <!-- Common -->
+    <string name="get_started">Get Started</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="kcal">kcal</string>
+    <string name="grams">g</string>
+    <string name="liters">L</string>
+    <string name="ml">ml</string>
+    <string name="minutes">min</string>
+    <string name="sets">sets</string>
+    <string name="reps">reps</string>
+</resources>

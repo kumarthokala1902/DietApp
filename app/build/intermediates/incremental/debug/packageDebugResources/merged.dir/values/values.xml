@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#00D4AA</color>
+    <color name="accent_dark">#00B894</color>
+    <color name="bg_card">#1A1A2E</color>
+    <color name="bg_card2">#16213E</color>
+    <color name="bg_card3">#0F3460</color>
+    <color name="bg_dark">#0D0D0D</color>
+    <color name="bg_surface">#1E1E2E</color>
+    <color name="calories_color">#E91E8C</color>
+    <color name="carbs_color">#FFD700</color>
+    <color name="error">#FF1744</color>
+    <color name="fat_color">#00D4AA</color>
+    <color name="gradient_end">#E91E8C</color>
+    <color name="gradient_green_end">#0052D4</color>
+    <color name="gradient_green_start">#00D4AA</color>
+    <color name="gradient_start">#FF6B35</color>
+    <color name="primary">#FF6B35</color>
+    <color name="primary_dark">#E55A2B</color>
+    <color name="primary_light">#FF8C5A</color>
+    <color name="protein_color">#FF6B35</color>
+    <color name="success">#00C853</color>
+    <color name="text_accent">#FF6B35</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B0B0C0</color>
+    <color name="transparent">#00000000</color>
+    <color name="warning">#FFD600</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_10">#1AFFFFFF</color>
+    <color name="white_20">#33FFFFFF</color>
+    <color name="white_50">#80FFFFFF</color>
+    <dimen name="bottom_nav_height">70dp</dimen>
+    <dimen name="button_radius">12dp</dimen>
+    <dimen name="card_radius">16dp</dimen>
+    <dimen name="card_radius_lg">24dp</dimen>
+    <dimen name="icon_lg">32dp</dimen>
+    <dimen name="icon_md">24dp</dimen>
+    <dimen name="icon_sm">20dp</dimen>
+    <dimen name="icon_xl">48dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="spacing_xxl">48dp</dimen>
+    <dimen name="text_lg">16sp</dimen>
+    <dimen name="text_md">14sp</dimen>
+    <dimen name="text_sm">12sp</dimen>
+    <dimen name="text_title">32sp</dimen>
+    <dimen name="text_xl">20sp</dimen>
+    <dimen name="text_xs">10sp</dimen>
+    <dimen name="text_xxl">24sp</dimen>
+    <string name="app_name">Frotumars DiteFit</string>
+    <string name="app_tagline">Transform Your Body. Fuel Your Life.</string>
+    <string name="calories">Calories</string>
+    <string name="carbs">Carbs</string>
+    <string name="fats">Fats</string>
+    <string name="firebase_database_url" translatable="false">https://andriod230-1-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">770259276865</string>
+    <string name="get_started">Get Started</string>
+    <string name="google_api_key" translatable="false">AIzaSyBa8_3bNVssPD86Dncv8nuPts7trt3jF5Y</string>
+    <string name="google_app_id" translatable="false">1:770259276865:android:d839c6357b64449e4922c0</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBa8_3bNVssPD86Dncv8nuPts7trt3jF5Y</string>
+    <string name="google_storage_bucket" translatable="false">andriod230-1.firebasestorage.app</string>
+    <string name="grams">g</string>
+    <string name="kcal">kcal</string>
+    <string name="liters">L</string>
+    <string name="minutes">min</string>
+    <string name="ml">ml</string>
+    <string name="nav_diet">Diet</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_tracker">Tracker</string>
+    <string name="nav_workout">Workout</string>
+    <string name="next">Next</string>
+    <string name="onboard_desc_1">Monitor every calorie, protein, carb and fat with precision and ease.</string>
+    <string name="onboard_desc_2">Follow expert-curated workout routines tailored to your fitness level.</string>
+    <string name="onboard_desc_3">Track progress, stay motivated and reach your dream physique.</string>
+    <string name="onboard_title_1">Track Your Nutrition</string>
+    <string name="onboard_title_2">Personalized Workout Plans</string>
+    <string name="onboard_title_3">Achieve Your Goals</string>
+    <string name="project_id" translatable="false">andriod230-1</string>
+    <string name="protein">Protein</string>
+    <string name="reps">reps</string>
+    <string name="sets">sets</string>
+    <string name="skip">Skip</string>
+    <style name="ButtonPrimary" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:letterSpacing">0.05</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="CardStyle" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/bg_card</item>
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">8dp</item>
+    </style>
+    <style name="MacroChip">
+        <item name="android:background">@drawable/bg_macro_chip</item>
+        <item name="android:paddingStart">12dp</item>
+        <item name="android:paddingEnd">12dp</item>
+        <item name="android:paddingTop">6dp</item>
+        <item name="android:paddingBottom">6dp</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="TextSubtitle">
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">14sp</item>
+    </style>
+    <style name="TextTitle">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Theme.GymDiet" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorOnSecondary">@color/white</item>
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+    <style name="Theme.GymDiet.Splash" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:windowBackground">@color/bg_dark</item>
+        <item name="android:statusBarColor">@color/bg_dark</item>
+        <item name="android:navigationBarColor">@color/bg_dark</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>
